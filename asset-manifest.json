@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/pixelPerfect/static/css/main.e37092e7.chunk.css",
-    "main.js": "/pixelPerfect/static/js/main.fce6e503.chunk.js",
-    "main.js.map": "/pixelPerfect/static/js/main.fce6e503.chunk.js.map",
+    "main.js": "/pixelPerfect/static/js/main.a3c74457.chunk.js",
+    "main.js.map": "/pixelPerfect/static/js/main.a3c74457.chunk.js.map",
     "runtime-main.js": "/pixelPerfect/static/js/runtime-main.ebeef8bd.js",
     "runtime-main.js.map": "/pixelPerfect/static/js/runtime-main.ebeef8bd.js.map",
     "static/js/2.4b3ea626.chunk.js": "/pixelPerfect/static/js/2.4b3ea626.chunk.js",
@@ -25,6 +25,6 @@
     "static/js/runtime-main.ebeef8bd.js",
     "static/js/2.4b3ea626.chunk.js",
     "static/css/main.e37092e7.chunk.css",
-    "static/js/main.fce6e503.chunk.js"
+    "static/js/main.a3c74457.chunk.js"
   ]
 }
