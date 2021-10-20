@@ -1,4 +1,8 @@
 .upper-component{
     height: 100px;
-    
+    grid-row: 1;
+    width: 100%;
+    @media (min-width: $mobile-breakpoint) {
+        grid-row: 2;
+      }
 }

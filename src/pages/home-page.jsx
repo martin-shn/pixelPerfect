@@ -1,5 +1,4 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
 import { BottomComponent } from '../cmps/bottom-component';
 import { MainComponent } from '../cmps/component';
 import { UpperComponent } from '../cmps/upper-component';

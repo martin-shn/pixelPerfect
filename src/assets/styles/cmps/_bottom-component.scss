@@ -1,4 +1,8 @@
 .bottom-component{
     height: 100px;
     background-color: $bgc-light;
+    grid-row: 3;
+    @media (min-width: $mobile-breakpoint) {
+        grid-row: 3;
+      }
 }

@@ -2,6 +2,10 @@
     padding: 20px;
     position: relative;
     background-color: $bgc-secondary;
+    grid-row: 2;
+    @media (min-width: $mobile-breakpoint) {
+        grid-row: 1;
+      }
     svg{
         position: absolute;
     }

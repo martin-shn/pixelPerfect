@@ -2,8 +2,11 @@ header {
   background-color: $bgc-header;
   padding: 0;
   margin: 0;
+  container{
+    display: initial;
+  }
     .main-content {
-        padding: 20px;
+        padding: 20px 0;
         display: flex;
         height: auto;
         margin: auto;

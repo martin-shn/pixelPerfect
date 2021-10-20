@@ -1,20 +1,36 @@
 //H0ME-PAGE CONTAINERS LAYOUT
 
-.home-page {
-  .container {
-    margin: auto;
-    @media (min-width: 576px) {
-      max-width: 540px;
-    }
-    @media (min-width: 768px) {
-      max-width: 720px;
-    }
-    @media (min-width: 992px) {
-      max-width: 960px;
-    }
-    @media (min-width: 1200px) {
-      max-width: 1140px;
-    }
+header, footer{
+  display: grid;
+  grid-template-columns: 1fr 800px 1fr;
+  &>*{
+    grid-column: 2;
+    display: flex;
   }
 }
 
+.home-page {
+  display: grid;
+  & > * {
+    &>container{
+        display: grid;
+        grid-template-columns: 1fr 800px 1fr;
+        &>*{
+          grid-column: 2;
+        }
+      }
+    }
+    margin: auto;
+    // @media (min-width: 576px) {
+    //     max-width: 540px;
+    // }
+    // @media (min-width: 768px) {
+    //     max-width: 720px;
+    // }
+    // @media (min-width: 992px) {
+    //     max-width: 960px;
+    // }
+    // @media (min-width: 1200px) {
+    //     max-width: 1140px;
+    // }
+}
