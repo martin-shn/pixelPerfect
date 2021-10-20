@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/pixelPerfect/static/css/main.e37092e7.chunk.css",
-    "main.js": "/pixelPerfect/static/js/main.6f1ca623.chunk.js",
-    "main.js.map": "/pixelPerfect/static/js/main.6f1ca623.chunk.js.map",
+    "main.css": "/pixelPerfect/static/css/main.6862f1bd.chunk.css",
+    "main.js": "/pixelPerfect/static/js/main.1d6c1cfe.chunk.js",
+    "main.js.map": "/pixelPerfect/static/js/main.1d6c1cfe.chunk.js.map",
     "runtime-main.js": "/pixelPerfect/static/js/runtime-main.ebeef8bd.js",
     "runtime-main.js.map": "/pixelPerfect/static/js/runtime-main.ebeef8bd.js.map",
     "static/js/2.4b3ea626.chunk.js": "/pixelPerfect/static/js/2.4b3ea626.chunk.js",
@@ -10,7 +10,7 @@
     "index.html": "/pixelPerfect/index.html",
     "service-worker.js": "/pixelPerfect/service-worker.js",
     "service-worker.js.map": "/pixelPerfect/service-worker.js.map",
-    "static/css/main.e37092e7.chunk.css.map": "/pixelPerfect/static/css/main.e37092e7.chunk.css.map",
+    "static/css/main.6862f1bd.chunk.css.map": "/pixelPerfect/static/css/main.6862f1bd.chunk.css.map",
     "static/js/2.4b3ea626.chunk.js.LICENSE.txt": "/pixelPerfect/static/js/2.4b3ea626.chunk.js.LICENSE.txt",
     "static/media/main.scss": "/pixelPerfect/static/media/Livvic-Regular.ab9935ef.ttf",
     "static/media/avatar-aiysha.e119a0c1.jpg": "/pixelPerfect/static/media/avatar-aiysha.e119a0c1.jpg",
@@ -26,7 +26,7 @@
   "entrypoints": [
     "static/js/runtime-main.ebeef8bd.js",
     "static/js/2.4b3ea626.chunk.js",
-    "static/css/main.e37092e7.chunk.css",
-    "static/js/main.6f1ca623.chunk.js"
+    "static/css/main.6862f1bd.chunk.css",
+    "static/js/main.1d6c1cfe.chunk.js"
   ]
 }
