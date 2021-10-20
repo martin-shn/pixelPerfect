@@ -1,0 +1,35 @@
+.main-component{
+    padding: 20px;
+    position: relative;
+    background-color: $bgc-secondary;
+    svg{
+        position: absolute;
+    }
+    svg:first-of-type{
+        top: 0;
+        left: 0;
+    }
+    svg:last-of-type{
+        bottom: 0;
+        right: 0;
+    }
+    .container{
+        display: flex;
+        flex-direction: column;
+        .header{
+            margin-top: 80px;
+            font-weight: 600;
+            font-size: rem(48px);
+            text-align: center;
+            line-height: rem(48px);
+            span{
+                color: $clr-text-light;
+            }
+        }
+        .reviews{
+            display: flex;
+            gap: 10px;
+            margin-bottom: 100px;
+        }
+    }
+}

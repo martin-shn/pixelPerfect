@@ -1,0 +1,40 @@
+footer{
+    padding: 20px;
+    display: flex;
+    height: auto;
+    margin: auto;
+    .brand-name{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        font-size: rem(48px);
+        height: auto;
+        margin-right: 80px;
+        label{
+            margin-bottom: 10px;
+            line-height: rem(36px);
+        }
+        nav{
+            display: flex;
+            gap: 10px;
+            font-size: rem(18px);
+        }
+    }
+    .address{
+        color: $clr-light;
+        flex-grow: 1;
+        line-height: rem(25px);
+    }
+
+    .copyrights{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: flex-end;
+        height: auto;
+        .socials{
+            display: flex;
+            gap: 20px;
+        }
+    }
+}

@@ -1,0 +1,9 @@
+.home-page {
+  font-family: "Livvic";
+  
+          button {
+            @media (min-width: 768px) {
+              width: 33.33333333%;
+            }
+          }
+}

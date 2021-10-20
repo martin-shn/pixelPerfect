@@ -1,0 +1,34 @@
+header {
+  background-color: $bgc-header;
+  padding: 0;
+  margin: 0;
+    .main-content {
+        padding: 20px;
+        display: flex;
+        height: auto;
+        margin: auto;
+        .logo {
+            display: flex;
+            font-size: 1.2rem;
+            height: auto;
+            margin-right: 50px;
+            align-items: center;
+        }
+        nav {
+            display: flex;
+            gap: 10px;
+            flex-grow: 1;
+            align-items: center;
+        }
+        .contact-us {
+            align-items: center;
+            .contact-us-btn {
+                border-radius: 20px;
+                padding: 10px;
+                background-color: transparent;
+                border: 1px $clr-default solid;
+                color: $clr-default;
+            }
+        }
+    }
+}
