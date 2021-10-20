@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/martin-shn/pixelPerfect.git/static/css/main.ac441002.chunk.css",
-    "main.js": "/martin-shn/pixelPerfect.git/static/js/main.c45cb022.chunk.js",
-    "main.js.map": "/martin-shn/pixelPerfect.git/static/js/main.c45cb022.chunk.js.map",
+    "main.js": "/martin-shn/pixelPerfect.git/static/js/main.fce6e503.chunk.js",
+    "main.js.map": "/martin-shn/pixelPerfect.git/static/js/main.fce6e503.chunk.js.map",
     "runtime-main.js": "/martin-shn/pixelPerfect.git/static/js/runtime-main.337738df.js",
     "runtime-main.js.map": "/martin-shn/pixelPerfect.git/static/js/runtime-main.337738df.js.map",
     "static/js/2.4b3ea626.chunk.js": "/martin-shn/pixelPerfect.git/static/js/2.4b3ea626.chunk.js",
@@ -25,6 +25,6 @@
     "static/js/runtime-main.337738df.js",
     "static/js/2.4b3ea626.chunk.js",
     "static/css/main.ac441002.chunk.css",
-    "static/js/main.c45cb022.chunk.js"
+    "static/js/main.fce6e503.chunk.js"
   ]
 }
