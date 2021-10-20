@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/martin-shn/pixelPerfect.git/static/css/main.ac441002.chunk.css",
-    "main.js": "/martin-shn/pixelPerfect.git/static/js/main.179e1c4c.chunk.js",
-    "main.js.map": "/martin-shn/pixelPerfect.git/static/js/main.179e1c4c.chunk.js.map",
-    "runtime-main.js": "/martin-shn/pixelPerfect.git/static/js/runtime-main.59ae2403.js",
-    "runtime-main.js.map": "/martin-shn/pixelPerfect.git/static/js/runtime-main.59ae2403.js.map",
-    "static/js/2.b73455ea.chunk.js": "/martin-shn/pixelPerfect.git/static/js/2.b73455ea.chunk.js",
-    "static/js/2.b73455ea.chunk.js.map": "/martin-shn/pixelPerfect.git/static/js/2.b73455ea.chunk.js.map",
+    "main.js": "/martin-shn/pixelPerfect.git/static/js/main.fd8435cc.chunk.js",
+    "main.js.map": "/martin-shn/pixelPerfect.git/static/js/main.fd8435cc.chunk.js.map",
+    "runtime-main.js": "/martin-shn/pixelPerfect.git/static/js/runtime-main.337738df.js",
+    "runtime-main.js.map": "/martin-shn/pixelPerfect.git/static/js/runtime-main.337738df.js.map",
+    "static/js/2.a8616639.chunk.js": "/martin-shn/pixelPerfect.git/static/js/2.a8616639.chunk.js",
+    "static/js/2.a8616639.chunk.js.map": "/martin-shn/pixelPerfect.git/static/js/2.a8616639.chunk.js.map",
     "index.html": "/martin-shn/pixelPerfect.git/index.html",
     "service-worker.js": "/martin-shn/pixelPerfect.git/service-worker.js",
     "service-worker.js.map": "/martin-shn/pixelPerfect.git/service-worker.js.map",
     "static/css/main.ac441002.chunk.css.map": "/martin-shn/pixelPerfect.git/static/css/main.ac441002.chunk.css.map",
-    "static/js/2.b73455ea.chunk.js.LICENSE.txt": "/martin-shn/pixelPerfect.git/static/js/2.b73455ea.chunk.js.LICENSE.txt",
+    "static/js/2.a8616639.chunk.js.LICENSE.txt": "/martin-shn/pixelPerfect.git/static/js/2.a8616639.chunk.js.LICENSE.txt",
     "static/media/main.scss": "/martin-shn/pixelPerfect.git/static/media/Livvic-Regular.ab9935ef.ttf",
     "static/media/avatar-kady.78fc482c.jpg": "/martin-shn/pixelPerfect.git/static/media/avatar-kady.78fc482c.jpg",
     "static/media/bg-pattern-home-4-about-3.aacd4e03.svg": "/martin-shn/pixelPerfect.git/static/media/bg-pattern-home-4-about-3.aacd4e03.svg",
@@ -22,9 +22,9 @@
     "static/media/icon-twitter.1d5c6d5e.svg": "/martin-shn/pixelPerfect.git/static/media/icon-twitter.1d5c6d5e.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.59ae2403.js",
-    "static/js/2.b73455ea.chunk.js",
+    "static/js/runtime-main.337738df.js",
+    "static/js/2.a8616639.chunk.js",
     "static/css/main.ac441002.chunk.css",
-    "static/js/main.179e1c4c.chunk.js"
+    "static/js/main.fd8435cc.chunk.js"
   ]
 }
